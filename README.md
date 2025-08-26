@@ -1,6 +1,6 @@
 # Django
 **BIENVENIDO**
-🐍 Pythohn - Django
+🐍 Python - Django
 
 **Introducción a Python Django**
 ⭕ Introducción
@@ -21,3 +21,6 @@ El sitio web se puede crear con HTML, CSS y JavaScript.
 HTML se utiliza para diseñar la página web, mientras que CSS se utiliza para la uniformidad del diseño.
 
 Para que su sitio web sea interactivo, podemos usar JavaScript. Por lo tanto, se utiliza en el frontend.
+
+Referencia: https://www.c-sharpcorner.com/learn/learn-django-in-20-days/introduction-to-python-django2
+
