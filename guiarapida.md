@@ -193,34 +193,3 @@ http://127.0.0.1:8000/ej5?x=7&y=3
 11) Comandos útiles
 # Activar venv
 .\.venv\Scripts\Activate
-
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Congelar dependencias
-pip freeze > requirements.txt
-
-# Migraciones (cuando agregues modelos)
-python manage.py makemigrations
-python manage.py migrate
-
-# Crear superusuario
-python manage.py createsuperuser
-
-12) .gitignore sugerido
-# Python
-__pycache__/
-*.py[cod]
-*.sqlite3
-.env
-
-# venv
-.venv/
-venv/
-
-# VS Code
-.vscode/
-
-# Django
-/staticfiles/
-/media/
